@@ -1,0 +1,1 @@
+Filtrar jogadores que começam com a letra "c" const jogadores ComC jogadores. Filter(j => j.toLowerCase().startswith("c")); console.log("5, jogadoresComC);
