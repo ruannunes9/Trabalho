@@ -1,0 +1,1 @@
+Imprimir todos os jogadores usando for console.log(317); for (let i; i < jogadores.length; i++) { console.log(jogadores[i]); }
