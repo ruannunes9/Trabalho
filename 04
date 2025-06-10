@@ -1,0 +1,1 @@
+Converter todos os nomes de jogadores para letras minúsculas const jogadoresMinusculos jogadores.map(j => j.toLowerCase()); console.log(":", jogadoresMinusculos);
