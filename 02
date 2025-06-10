@@ -1,0 +1,1 @@
+Remover o primeiro jogador da lista jogadores.shift(); console.log(2, jogadores);
