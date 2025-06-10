@@ -1,0 +1,11 @@
+Padronizar todos os nomes
+
+const padronizados jogadores.map(j =>
+
+); .map(p => p.charAt(0). toUpperCase() + p.slice(1).toLowerCase())
+
+.split("")
+
+join()
+
+console.log("10:%, padronizados);
