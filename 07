@@ -1,0 +1,1 @@
+Contar jogadores com "r" no nome (sem case sensitive) const com jogadores.filter(j->j.toLowerCase().includes ("c")); console.log("7: Quantidade com comR.length);
